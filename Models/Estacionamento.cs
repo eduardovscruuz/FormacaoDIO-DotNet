@@ -1,3 +1,5 @@
+using System.Text.RegularExpressions;
+
 namespace SistemaDeEstacionamento.Models
 {
     public class Estacionamento
@@ -12,53 +14,79 @@ namespace SistemaDeEstacionamento.Models
         }
         public void AdicionarVeiculo()
         {
-            // TODO: Pedir para o usuário digitar uma placa (ReadLine) e adicionar na lista "veiculos"
-            Console.WriteLine("Digite a placa do veículo para estacionar:");
-            veiculos.Add(Console.ReadLine());
-        }
-        public void RemoverVeiculo()
-        {
-            Console.WriteLine("Digite a placa do veículo para remover:");
-            // Pedir para o usuário digitar a placa e armazenar na variável placa
+            Console.WriteLine("Digite a placa do veículo para estacionar: (Formato 'ABC-123')");
 
-            string placa = Console.ReadLine();
-            // Verifica se o veículo existe
-            if (veiculos.Any(x => x.ToUpper() == placa.ToUpper()))
+            var placa = Console.ReadLine();
+
+            Regex regex = new Regex(@"^[A-Z]{3}-\d{3}$");
+            if (regex.IsMatch(placa))
             {
-                Console.WriteLine("Digite a quantidade de horas que o veículo permaneceu estacionado:");
-                // TODO: Pedir para o usuário digitar a quantidade de horas que o veículo permaneceu estacionado,
-                // TODO: Realizar o seguinte cálculo: "precoInicial + precoPorHora * horas" para a variável valorTotal                
-                int horas = 0;
-                decimal valorTotal = 0;
-                horas = Convert.ToInt32(Console.ReadLine());
-                valorTotal = precoInicial + precoPorHora * horas;
+                veiculos.Add(placa);
+                Console.WriteLine("Placa válida! Veículo estacionado");
 
-
-                // TODO: Remover a placa digitada da lista de veículos
-                veiculos.Remove(placa);
-                Console.WriteLine($"O veículo {placa} foi removido e o preço total foi de: R$ {valorTotal}");
             }
             else
             {
-                Console.WriteLine("Desculpe, esse veículo não está estacionado aqui. Confira se digitou a placa corretamente");
+                Console.WriteLine("Placa inválida!");
             }
+
         }
+
         public void ListarVeiculos()
         {
-            // Verifica se há veículos no estacionamento
+
             if (veiculos.Any())
             {
-                Console.WriteLine("Os veículos estacionados são:");
-                // TODO: Realizar um laço de repetição, exibindo os veículos estacionados
-                foreach (string veiculo in veiculos)
+                if (veiculos.Count == 1) Console.WriteLine($"Temos {veiculos.Count} veículo estacionado, sendo ele:");
+                else Console.WriteLine($"Temos {veiculos.Count} veículos estacionados, sendo eles:");
+
+                int contador = 1;
+                foreach (string placa in veiculos)
                 {
-                    Console.WriteLine(veiculo);
+                    Console.WriteLine($"Veículo {contador}: {placa}");
+                    contador++;
                 }
             }
+
+
+
             else
             {
                 Console.WriteLine("Não há veículos estacionados.");
             }
+        }
+
+        public void RemoverVeiculo()
+        {
+            Console.WriteLine("Digite a placa do veículo para remover: (Formato 'ABC-123')");
+
+            var placa = Console.ReadLine();
+            Regex regex = new Regex(@"^[A-Z]{3}-\d{3}$");
+
+            if (regex.IsMatch(placa))
+            {
+                if (veiculos.Any(x => x == placa))
+                {
+                    Console.WriteLine("Digite a quantidade de horas que o veículo permaneceu estacionado:");
+                    int horas = 0;
+                    decimal valorTotal = 0;
+                    horas = Convert.ToInt32(Console.ReadLine());
+                    valorTotal = precoInicial + precoPorHora * horas;
+
+                    veiculos.Remove(placa);
+                    Console.WriteLine($"O veículo {placa} foi removido e o preço total foi de: {valorTotal.ToString("C")}");
+                }
+                else
+                {
+                    Console.WriteLine("Desculpe, esse veículo não está estacionado aqui.");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Placa inválida!");
+            }
+
+
         }
     }
 }

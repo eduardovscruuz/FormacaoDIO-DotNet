@@ -14,7 +14,6 @@ precoPorHora = Convert.ToDecimal(Console.ReadLine());
 
 // Instancia a classe Estacionamento, já com os valores obtidos anteriormente
 Estacionamento es = new Estacionamento(precoInicial, precoPorHora);
-string opcao = string.Empty;
 bool exibirMenu = true;
 
 // Realiza o loop do menu
@@ -26,6 +25,7 @@ while (exibirMenu)
     Console.WriteLine("2 - Remover veículo");
     Console.WriteLine("3 - Listar veículos");
     Console.WriteLine("4 - Encerrar");
+
     switch (Console.ReadLine())
     {
         case "1":

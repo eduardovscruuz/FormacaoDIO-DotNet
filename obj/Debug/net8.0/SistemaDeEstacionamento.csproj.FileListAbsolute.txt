@@ -12,3 +12,4 @@ c:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeEstacionamento\obj\Debug\ne
 c:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeEstacionamento\obj\Debug\net8.0\SistemaDeEstacionamento.pdb
 c:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeEstacionamento\obj\Debug\net8.0\SistemaDeEstacionamento.genruntimeconfig.cache
 c:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeEstacionamento\obj\Debug\net8.0\ref\SistemaDeEstacionamento.dll
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeEstacionamento\obj\Debug\net8.0\SistemaDeEstacionamento.sourcelink.json
