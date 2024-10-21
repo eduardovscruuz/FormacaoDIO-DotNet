@@ -1,0 +1,17 @@
+C:\Users\eduar\Documentos\Carreira\Projetos\PropriedadesCSharp\bin\Debug\net8.0\PropriedadesCSharp.exe
+C:\Users\eduar\Documentos\Carreira\Projetos\PropriedadesCSharp\bin\Debug\net8.0\PropriedadesCSharp.deps.json
+C:\Users\eduar\Documentos\Carreira\Projetos\PropriedadesCSharp\bin\Debug\net8.0\PropriedadesCSharp.runtimeconfig.json
+C:\Users\eduar\Documentos\Carreira\Projetos\PropriedadesCSharp\bin\Debug\net8.0\PropriedadesCSharp.dll
+C:\Users\eduar\Documentos\Carreira\Projetos\PropriedadesCSharp\bin\Debug\net8.0\PropriedadesCSharp.pdb
+C:\Users\eduar\Documentos\Carreira\Projetos\PropriedadesCSharp\obj\Debug\net8.0\PropriedadesCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documentos\Carreira\Projetos\PropriedadesCSharp\obj\Debug\net8.0\PropriedadesCSharp.AssemblyInfoInputs.cache
+C:\Users\eduar\Documentos\Carreira\Projetos\PropriedadesCSharp\obj\Debug\net8.0\PropriedadesCSharp.AssemblyInfo.cs
+C:\Users\eduar\Documentos\Carreira\Projetos\PropriedadesCSharp\obj\Debug\net8.0\PropriedadesCSharp.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documentos\Carreira\Projetos\PropriedadesCSharp\obj\Debug\net8.0\PropriedadesCSharp.dll
+C:\Users\eduar\Documentos\Carreira\Projetos\PropriedadesCSharp\obj\Debug\net8.0\refint\PropriedadesCSharp.dll
+C:\Users\eduar\Documentos\Carreira\Projetos\PropriedadesCSharp\obj\Debug\net8.0\PropriedadesCSharp.pdb
+C:\Users\eduar\Documentos\Carreira\Projetos\PropriedadesCSharp\obj\Debug\net8.0\PropriedadesCSharp.genruntimeconfig.cache
+C:\Users\eduar\Documentos\Carreira\Projetos\PropriedadesCSharp\obj\Debug\net8.0\ref\PropriedadesCSharp.dll
+C:\Users\eduar\Documentos\Carreira\Projetos\PropriedadesCSharp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\eduar\Documentos\Carreira\Projetos\PropriedadesCSharp\obj\Debug\net8.0\PropriedadesCSharp.csproj.AssemblyReference.cache
+C:\Users\eduar\Documentos\Carreira\Projetos\PropriedadesCSharp\obj\Debug\net8.0\Propried.EF187BE2.Up2Date
