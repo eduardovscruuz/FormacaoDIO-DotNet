@@ -1,0 +1,14 @@
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeHospedagem\bin\Debug\net8.0\SistemaDeHospedagem.exe
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeHospedagem\bin\Debug\net8.0\SistemaDeHospedagem.deps.json
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeHospedagem\bin\Debug\net8.0\SistemaDeHospedagem.runtimeconfig.json
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeHospedagem\bin\Debug\net8.0\SistemaDeHospedagem.dll
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeHospedagem\bin\Debug\net8.0\SistemaDeHospedagem.pdb
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.AssemblyInfoInputs.cache
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.AssemblyInfo.cs
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.dll
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeHospedagem\obj\Debug\net8.0\refint\SistemaDeHospedagem.dll
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.pdb
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.genruntimeconfig.cache
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeHospedagem\obj\Debug\net8.0\ref\SistemaDeHospedagem.dll
