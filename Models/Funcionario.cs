@@ -1,4 +1,4 @@
-namespace TrilhaNetAzureDesafio.Models
+namespace DIOApiAzure.Models
 {
     public class Funcionario
     {

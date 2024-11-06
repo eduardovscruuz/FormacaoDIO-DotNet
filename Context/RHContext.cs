@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using TrilhaNetAzureDesafio.Models;
+using DIOApiAzure.Models;
 
-namespace TrilhaNetAzureDesafio.Context
+namespace DIOApiAzure.Context
 {
     public class RHContext : DbContext
     {

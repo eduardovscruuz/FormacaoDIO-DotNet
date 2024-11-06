@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using TrilhaNetAzureDesafio.Context;
+using DIOApiAzure.Context;
 
 #nullable disable
 
@@ -22,7 +22,7 @@ namespace trilha_net_azure_desafio.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
 
-            modelBuilder.Entity("TrilhaNetAzureDesafio.Models.Funcionario", b =>
+            modelBuilder.Entity("DIOApiAzure.Models.Funcionario", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()

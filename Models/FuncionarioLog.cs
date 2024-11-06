@@ -2,7 +2,7 @@ using System.Text.Json;
 using Azure;
 using Azure.Data.Tables;
 
-namespace TrilhaNetAzureDesafio.Models
+namespace DIOApiAzure.Models
 {
     public class FuncionarioLog : Funcionario, ITableEntity
     {

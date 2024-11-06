@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using TrilhaNetAzureDesafio.Context;
+using DIOApiAzure.Context;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,7 +8,6 @@ builder.Services.AddDbContext<RHContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("ConexaoPadrao")));
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
