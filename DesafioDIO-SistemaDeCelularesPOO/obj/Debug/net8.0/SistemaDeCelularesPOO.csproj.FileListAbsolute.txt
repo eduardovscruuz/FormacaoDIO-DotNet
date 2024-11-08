@@ -1,0 +1,14 @@
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeCelularesPOO\bin\Debug\net8.0\SistemaDeCelularesPOO.exe
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeCelularesPOO\bin\Debug\net8.0\SistemaDeCelularesPOO.deps.json
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeCelularesPOO\bin\Debug\net8.0\SistemaDeCelularesPOO.runtimeconfig.json
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeCelularesPOO\bin\Debug\net8.0\SistemaDeCelularesPOO.dll
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeCelularesPOO\bin\Debug\net8.0\SistemaDeCelularesPOO.pdb
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeCelularesPOO\obj\Debug\net8.0\SistemaDeCelularesPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeCelularesPOO\obj\Debug\net8.0\SistemaDeCelularesPOO.AssemblyInfoInputs.cache
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeCelularesPOO\obj\Debug\net8.0\SistemaDeCelularesPOO.AssemblyInfo.cs
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeCelularesPOO\obj\Debug\net8.0\SistemaDeCelularesPOO.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeCelularesPOO\obj\Debug\net8.0\SistemaDeCelularesPOO.dll
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeCelularesPOO\obj\Debug\net8.0\refint\SistemaDeCelularesPOO.dll
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeCelularesPOO\obj\Debug\net8.0\SistemaDeCelularesPOO.pdb
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeCelularesPOO\obj\Debug\net8.0\SistemaDeCelularesPOO.genruntimeconfig.cache
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeCelularesPOO\obj\Debug\net8.0\ref\SistemaDeCelularesPOO.dll
