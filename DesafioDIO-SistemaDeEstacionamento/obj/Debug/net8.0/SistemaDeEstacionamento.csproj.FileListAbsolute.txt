@@ -1,0 +1,15 @@
+c:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeEstacionamento\bin\Debug\net8.0\SistemaDeEstacionamento.exe
+c:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeEstacionamento\bin\Debug\net8.0\SistemaDeEstacionamento.deps.json
+c:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeEstacionamento\bin\Debug\net8.0\SistemaDeEstacionamento.runtimeconfig.json
+c:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeEstacionamento\bin\Debug\net8.0\SistemaDeEstacionamento.dll
+c:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeEstacionamento\bin\Debug\net8.0\SistemaDeEstacionamento.pdb
+c:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeEstacionamento\obj\Debug\net8.0\SistemaDeEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeEstacionamento\obj\Debug\net8.0\SistemaDeEstacionamento.AssemblyInfoInputs.cache
+c:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeEstacionamento\obj\Debug\net8.0\SistemaDeEstacionamento.AssemblyInfo.cs
+c:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeEstacionamento\obj\Debug\net8.0\SistemaDeEstacionamento.csproj.CoreCompileInputs.cache
+c:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeEstacionamento\obj\Debug\net8.0\SistemaDeEstacionamento.dll
+c:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeEstacionamento\obj\Debug\net8.0\refint\SistemaDeEstacionamento.dll
+c:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeEstacionamento\obj\Debug\net8.0\SistemaDeEstacionamento.pdb
+c:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeEstacionamento\obj\Debug\net8.0\SistemaDeEstacionamento.genruntimeconfig.cache
+c:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeEstacionamento\obj\Debug\net8.0\ref\SistemaDeEstacionamento.dll
+C:\Users\eduar\Documentos\Carreira\Projetos\SistemaDeEstacionamento\obj\Debug\net8.0\SistemaDeEstacionamento.sourcelink.json
