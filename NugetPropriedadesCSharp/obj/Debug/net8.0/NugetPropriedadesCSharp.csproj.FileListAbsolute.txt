@@ -1,0 +1,17 @@
+C:\Users\eduar\Documentos\Carreira\Projetos\Nuget&PropriedadesCSharp\bin\Debug\net8.0\NugetPropriedadesCSharp.exe
+C:\Users\eduar\Documentos\Carreira\Projetos\Nuget&PropriedadesCSharp\bin\Debug\net8.0\NugetPropriedadesCSharp.deps.json
+C:\Users\eduar\Documentos\Carreira\Projetos\Nuget&PropriedadesCSharp\bin\Debug\net8.0\NugetPropriedadesCSharp.runtimeconfig.json
+C:\Users\eduar\Documentos\Carreira\Projetos\Nuget&PropriedadesCSharp\bin\Debug\net8.0\NugetPropriedadesCSharp.dll
+C:\Users\eduar\Documentos\Carreira\Projetos\Nuget&PropriedadesCSharp\bin\Debug\net8.0\NugetPropriedadesCSharp.pdb
+C:\Users\eduar\Documentos\Carreira\Projetos\Nuget&PropriedadesCSharp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\eduar\Documentos\Carreira\Projetos\Nuget&PropriedadesCSharp\obj\Debug\net8.0\NugetPropriedadesCSharp.csproj.AssemblyReference.cache
+C:\Users\eduar\Documentos\Carreira\Projetos\Nuget&PropriedadesCSharp\obj\Debug\net8.0\NugetPropriedadesCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documentos\Carreira\Projetos\Nuget&PropriedadesCSharp\obj\Debug\net8.0\NugetPropriedadesCSharp.AssemblyInfoInputs.cache
+C:\Users\eduar\Documentos\Carreira\Projetos\Nuget&PropriedadesCSharp\obj\Debug\net8.0\NugetPropriedadesCSharp.AssemblyInfo.cs
+C:\Users\eduar\Documentos\Carreira\Projetos\Nuget&PropriedadesCSharp\obj\Debug\net8.0\NugetPropriedadesCSharp.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documentos\Carreira\Projetos\Nuget&PropriedadesCSharp\obj\Debug\net8.0\NugetPro.9BAFEEDC.Up2Date
+C:\Users\eduar\Documentos\Carreira\Projetos\Nuget&PropriedadesCSharp\obj\Debug\net8.0\NugetPropriedadesCSharp.dll
+C:\Users\eduar\Documentos\Carreira\Projetos\Nuget&PropriedadesCSharp\obj\Debug\net8.0\refint\NugetPropriedadesCSharp.dll
+C:\Users\eduar\Documentos\Carreira\Projetos\Nuget&PropriedadesCSharp\obj\Debug\net8.0\NugetPropriedadesCSharp.pdb
+C:\Users\eduar\Documentos\Carreira\Projetos\Nuget&PropriedadesCSharp\obj\Debug\net8.0\NugetPropriedadesCSharp.genruntimeconfig.cache
+C:\Users\eduar\Documentos\Carreira\Projetos\Nuget&PropriedadesCSharp\obj\Debug\net8.0\ref\NugetPropriedadesCSharp.dll
