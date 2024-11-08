@@ -1,0 +1,14 @@
+C:\Users\eduar\Documentos\Carreira\Projetos\ConceitosPOO\bin\Debug\net8.0\ConceitosPOO.exe
+C:\Users\eduar\Documentos\Carreira\Projetos\ConceitosPOO\bin\Debug\net8.0\ConceitosPOO.deps.json
+C:\Users\eduar\Documentos\Carreira\Projetos\ConceitosPOO\bin\Debug\net8.0\ConceitosPOO.runtimeconfig.json
+C:\Users\eduar\Documentos\Carreira\Projetos\ConceitosPOO\bin\Debug\net8.0\ConceitosPOO.dll
+C:\Users\eduar\Documentos\Carreira\Projetos\ConceitosPOO\bin\Debug\net8.0\ConceitosPOO.pdb
+C:\Users\eduar\Documentos\Carreira\Projetos\ConceitosPOO\obj\Debug\net8.0\ConceitosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documentos\Carreira\Projetos\ConceitosPOO\obj\Debug\net8.0\ConceitosPOO.AssemblyInfoInputs.cache
+C:\Users\eduar\Documentos\Carreira\Projetos\ConceitosPOO\obj\Debug\net8.0\ConceitosPOO.AssemblyInfo.cs
+C:\Users\eduar\Documentos\Carreira\Projetos\ConceitosPOO\obj\Debug\net8.0\ConceitosPOO.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documentos\Carreira\Projetos\ConceitosPOO\obj\Debug\net8.0\ConceitosPOO.dll
+C:\Users\eduar\Documentos\Carreira\Projetos\ConceitosPOO\obj\Debug\net8.0\refint\ConceitosPOO.dll
+C:\Users\eduar\Documentos\Carreira\Projetos\ConceitosPOO\obj\Debug\net8.0\ConceitosPOO.pdb
+C:\Users\eduar\Documentos\Carreira\Projetos\ConceitosPOO\obj\Debug\net8.0\ConceitosPOO.genruntimeconfig.cache
+C:\Users\eduar\Documentos\Carreira\Projetos\ConceitosPOO\obj\Debug\net8.0\ref\ConceitosPOO.dll
